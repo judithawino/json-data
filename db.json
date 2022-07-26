@@ -1,0 +1,110 @@
+{
+   "services": [
+        {
+            "id":1,
+            "title":"Lux Picnic",
+            "description":"With this package, be sure to spectatculously celebrate your birthday, baby shower, bridal shower and etc. This package comes with a luxarious look that includes: Picnic pallet, table runners, floor pillows, flower displays, fairy lights, charger plates, napkins, carpets, cutlery and acrylic board with message", 
+            "price":5500,
+            "picture":"./src/assets/lux.jpg"
+        },
+
+        {
+            "id":2,
+            "title":"Classic Picnic",
+            "description":"Laid back vibes is what we go for when it comes to the classic picnic package. Arrive to find a beautiful, customised ,classic themed picnic  that will include: Linen Fabric as Carpet, Charger Plates, Picnic Pallet, Table Runners, Floor Pillows, Flower Displays, Napkins etc.",
+            "price":4000,
+            "picture":"./src/assets/classic1.jpg"
+        },
+
+        {
+            "id":3,
+            "title":"Balloon Hug",
+            "description":"Carefully made Balloon hugs with message to your loved ones. It is easy to carry around hence, it is a perfect gift to your spouse, workmate, child in school or parents. Incase you are committed, we can deliver the package on your behalf. For special add ons like flowers and chocoloate, make a request at a fee. The price exculdes delivery fee.",
+            "price":2500,
+            "picture":"./src/assets/balloon_hug.jpg"
+        },
+
+        {
+            "id":4,
+            "title":"Babyshoots Decor",
+            "description":"Whether it is the baby's birthday shoot for their first year or 11th year or just a shoot for memory collections , we give you a well decorated background with a custom look through our babyshoot decor package",
+            "price":5000,
+            "picture":"./src/assets/babyshoot.jpg"
+        },
+
+        {
+            "id":5,
+            "title":"Ballon Marquee",
+            "description":"A special celebration desrves an extraordinary balloon bouquet. What a great piece of elegance to add to the decoration of either a birthday, wedding, baby shower or bridal shower other than our balloon marquee. We custom make it excatly how you want it.",
+            "price":3500,
+            "picture":"./src/assets/balloon_marquee.jpeg"
+        },
+
+        {
+            "id":6,
+            "title":"Ballon Wall",
+            "description":"The package allows you, our esteemed client to get a customised balloon wall that will suit your needs and exceed your expectations. The package price vary with the balloon wall sizes",
+            "price":10000,
+            "picture":"./src/assets/balloon_wall.jpg"
+        },
+
+        {
+            "id":7,
+            "title":"Ring Backdrops",
+            "description":"These Backdrops add elegance to your birthday, weddings, bridal showers and baby shower.",
+            "price":10000,
+            "picture":"./src/assets/ring_backdrops.jpeg"
+        },
+
+        {
+            "id":8,
+            "title":"Table Setting",
+            "description":"The package is all about subtle elegance and that is what we strive to achieve with every picnic under this package. Arrive to find a classy picnic set up that will include: table runners, chargers, centerpieces, candles, floral arrangements and etc",
+            "price":10000,
+            "picture":"./src/assets/table_setting.jpg"
+        }
+    ],
+    "prev-work":[
+        {
+            "id":1,
+            "work-name":"Birthday Party",
+            "image_url":"./src/assets/lux.jpg"
+        },
+
+        {
+            "id":2,
+            "work-name":"Traditional marriage Ceremony",
+            "image_url":"./src/assets/traditional.jpg"
+        },
+        {
+            "id":3,
+            "work-name":"Baby Shower",
+            "image_url":"./src/assets/babyshower.jpg"
+        },
+        {
+            "id":4,
+            "work-name":"Room setup",
+            "image_url":"./src/assets/room.jpg"
+        }
+    ],
+
+    "feedback":[
+        {
+            "id":1,
+            "cust-name":"Judith Omondi",
+            "content":"Great work ethics. You exceeded my expectations and I was amazed with your work. Thank you Tanleys' "
+        },
+
+        {
+            "id":2,
+            "cust-name":"Faith Abby",
+            "content":"You brought life to my bridal payment ceremony. Thank you for your services."
+        },
+
+        {
+            "id":3,
+            "cust-name":"Kennedy Wekesa",
+            "content":"Guys, with Tanleys' you will never go wrong. Thank you for coming through for me and helping me organize a surprise birthday gift for my spouse."
+        }
+    ]
+}
